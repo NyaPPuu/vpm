@@ -3,17 +3,8 @@
     "id":"io.github.nyappuu.vpm",
     "url":"https://nyappuu.github.io/vpm/index.json",
     "author":{
-        "email":"mnyappu@gmail.com",
+        "email":"",
         "name":"NyaPPu",
         "url":"https://github.com/NyaPPuu"
-    },
-    "description":"Test",
-    "infoLink":{
-        "url":"http://github.com/nyappuu/vpm",
-        "text":"View on GitHub"
-    },
-    "bannerUrl":"",
-    "githubRepos":[
-        "nyappuu/VRCAvatarHelper"
-    ]
+    }
 }
